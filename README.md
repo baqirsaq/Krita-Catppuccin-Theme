@@ -50,7 +50,7 @@
 7. Then you just need to go to Settings > Themes > Chose your theme
 8. Restart Krita and see the theme
 > [!IMPORTANT]  
-> To change the Canvas Border Colour Settings > Confiure Krita > Display > Canvas Decoration > Canvas Border Colour
+> To change the go to: Canvas Border Colour Settings > Confiure Krita > Display > Canvas Decoration > Canvas Border Colour
 
 ## Configuration
 There is no `config file` (yet?), therefore you can make a copy of the theme, change the `Name` and `ColorScheme`:
