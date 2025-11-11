@@ -1,0 +1,41 @@
+[General]
+Name = Catppuccin Frappé
+ColorScheme = Catppuccin-Frappe
+shadeSortColumn = true
+
+[Colors:Button]
+BackgroundAlternate = 54,58,80
+BackgroundNormal = 54,58,80
+ForegroundNormal = 168,177,204
+DecorationFocus = 237,135,160 ; Accent colour for focus/decoration
+DecorationHover = 237,135,160 ; Accent colour for hover
+
+[Colors:Selection]
+BackgroundNormal = 140,170,238
+ForegroundNormal = 255,255,255
+
+[Colors:View]
+BackgroundAlternate = 69,73,97
+BackgroundNormal = 69,73,97
+ForegroundActive = 210,210,223
+ForegroundNormal = 168,177,204
+
+[Colors:Window]
+BackgroundAlternate = 82,86,110
+BackgroundNormal = 69,73,97
+ForegroundNormal = 168,177,204
+
+[Colors:Tooltip]
+BackgroundNormal = 82,86,110
+ForegroundNormal = 220,218,217
+
+[Colors:Text]
+BackgroundNormal = 69,73,97
+ForegroundNormal = 210,210,223
+ForegroundInactive = 145,151,180
+
+[Colors:Complementary]
+BackgroundNormal = 54,58,80
+ForegroundNormal = 210,210,223
+DecorationFocus = 237,135,160 ; Accent colour for focus/decoration
+DecorationHover = 140,170,238 ; Accent colour for hover

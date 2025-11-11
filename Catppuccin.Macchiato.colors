@@ -1,0 +1,42 @@
+[General]
+Name = Catppuccin Macchiato
+ColorScheme = Catppuccin-Macchiato
+shadeSortColumn = true
+
+[Colors:Button]
+BackgroundAlternate = 33,36,50
+BackgroundNormal = 33,36,50
+ForegroundNormal = 191,187,169
+DecorationFocus = 159,71,104 ; Accent colour for focus/decoration
+DecorationHover = 159,71,104 ; Accent colour for hover
+
+[Colors:Selection]
+BackgroundNormal = 127,106,225
+ForegroundNormal = 255,255,255
+
+[Colors:View]
+BackgroundAlternate = 41,45,62
+BackgroundNormal = 41,45,62
+ForegroundActive = 215,215,215
+ForegroundNormal = 191,187,169
+
+[Colors:Window]
+BackgroundAlternate = 52,51,50
+BackgroundNormal = 41,45,62
+ForegroundNormal = 191,187,169
+
+[Colors:Tooltip]
+BackgroundNormal = 52,51,50
+ForegroundNormal = 220,218,217
+
+[Colors:Text]
+BackgroundNormal = 41,45,62
+ForegroundNormal = 217,216,216
+ForegroundInactive = 140,135,130
+
+[Colors:Complementary]
+BackgroundNormal = 33,36,50
+ForegroundNormal = 217,216,216
+DecorationFocus = 159,71,104 ; Accent colour for focus/decoration
+DecorationHover = 127,106,225 ; Accent colour for hover
+

@@ -1,0 +1,41 @@
+[General]
+Name = Catppuccin Mocha
+ColorScheme = Catppuccin-Mocha
+shadeSortColumn = true
+
+[Colors:Button]
+BackgroundAlternate = 30,30,46
+BackgroundNormal = 30,30,46
+ForegroundNormal = 191,187,169
+DecorationFocus = 159,71,104 ; Accent colour for focus/decoration
+DecorationHover = 159,71,104 ; Accent colour for hover
+
+[Colors:Selection]
+BackgroundNormal = 137,180,250
+ForegroundNormal = 255,255,255
+
+[Colors:View]
+BackgroundAlternate = 35,39,57
+BackgroundNormal = 35,39,57
+ForegroundActive = 217,216,216
+ForegroundNormal = 191,187,169
+
+[Colors:Window]
+BackgroundAlternate = 45,45,67
+BackgroundNormal = 35,39,57
+ForegroundNormal = 191,187,169
+
+[Colors:Tooltip]
+BackgroundNormal = 45,45,67
+ForegroundNormal = 220,218,217
+
+[Colors:Text]
+BackgroundNormal = 35,39,57
+ForegroundNormal = 217,216,216
+ForegroundInactive = 147,153,178
+
+[Colors:Complementary]
+BackgroundNormal = 30,30,46
+ForegroundNormal = 217,216,216
+DecorationFocus = 159,71,104 ; Accent colour for focus/decoration
+DecorationHover = 137,180,250 ; Accent colour for hover
